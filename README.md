@@ -64,8 +64,9 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 ## ⭐ Featured Work
 
 <p align="center">
-<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" /><img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/c0523d76-2621-4ae7-a43f-48321975c8a7" />
-  <img src="images/design2.jpg" width="45%">
+<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" />
+![AL-DHAYAGHEM1](https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b)
+
 </p>
 
 <p align="center">
