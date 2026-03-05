@@ -64,7 +64,8 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 ## ⭐ Featured Work
 
 <p align="center">
-  <img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b" >
+
+<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/ee26f848-696c-468f-9ddc-103b0f3405a2" >
 <img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" >
 <img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b" >
 
@@ -88,8 +89,11 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
   <img width="1280" height="1280" alt="logo2" src="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1" >
 </p>
 
+---
 
+## 🖥 Website
 
+Loding.....
 
 ---
 
