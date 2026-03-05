@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Graphic Designer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;UI%2FUX+Designer;Graphic+Designer;Logo+and+Brand+Identity+Designer;Web+Developer; Social Media Post;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;UI%2FUX+Designer;Graphic+Designer;Logo+and+Brand+Identity+Designer;Web+Developer;Social+Media+Post;&center=true&width=500&height=45">
 </p>
 
 ---
