@@ -27,7 +27,7 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge\&logo=csharp)
-
+![C++](https://img.shields.io/badge/C++-red?style=for-the-badge\&logo=csharp)
 ---
 
 ## 🎨 Design Tools
