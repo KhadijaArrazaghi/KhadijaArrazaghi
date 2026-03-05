@@ -19,8 +19,6 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 ---
 
-# 🛠 Skills
-
 ## 👨‍💻 Programming
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
@@ -55,23 +53,9 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 ---
 
-# 📊 GitHub Stats
-
-![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadijaArrazaghi\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhadijaArrazaghi\&layout=compact\&theme=tokyonight)
-
----
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhadijaArrazaghi\&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=KhadijaArrazaghi\&theme=tokyonight\&column=7)
 
 ---
 
