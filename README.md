@@ -21,11 +21,12 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 ## 👨‍💻 Programming
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge\&logo=csharp)
-![C++](https://img.shields.io/badge/C++-red?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
+![C++](https://img.shields.io/badge/C++-red?style=for-the-badge&logo=cplusplus)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
