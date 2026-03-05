@@ -65,23 +65,17 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 <p align="center">
 <img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" />
-  <img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b" />
-
-</p>
-
-<p align="center">
-  <img src="images/design3.jpg" width="45%">
-  <img src="images/design4.jpg" width="45%">
-</p>
+<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b" />
 
 ---
 
 ## 🖥 UI / UX Designs
 
 <p align="center">
-  <img src="images/ui1.jpg" width="30%">
-  <img src="images/ui2.jpg" width="30%">
+<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/6cb6383b-6a72-4b0d-9dee-8abe1fe4bc3a" />
+<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/10ddc6be-6e57-4c7b-858b-3bafe4a014a5" />
 </p>
+
 
 ---
 
