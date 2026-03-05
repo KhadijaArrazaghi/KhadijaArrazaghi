@@ -25,7 +25,8 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge\&logo=csharp)
-![C++](https://img.shields.io/badge/C++-red?style=for-the-badge\&logo=csharp)
+![C++](https://img.shields.io/badge/C++-red?style=for-the-badge)
+
 ---
 
 ## 🎨 Design Tools
@@ -59,44 +60,80 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 ---
 
+# 📊 GitHub Stats
+
+![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadijaArrazaghi\&show_icons=true\&theme=tokyonight)
+
+---
+
 # 🎨 Design Portfolio
 
 ## ⭐ Featured Work
 
 <p align="center">
 
-<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/ee26f848-696c-468f-9ddc-103b0f3405a2" >
-<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" >
-<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b" >
+<a href="https://github.com/user-attachments/assets/ee26f848-696c-468f-9ddc-103b0f3405a2">
+<img src="https://github.com/user-attachments/assets/ee26f848-696c-468f-9ddc-103b0f3405a2" width="300">
+</a>
 
+<a href="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65">
+<img src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" width="300">
+</a>
+
+<a href="https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b">
+<img src="https://github.com/user-attachments/assets/1a903bb7-7c3c-4df2-ae49-4736d9a3fd4b" width="300">
+</a>
+
+</p>
 
 ---
 
 ## 🖥 UI / UX Designs
 
 <p align="center">
-<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/6cb6383b-6a72-4b0d-9dee-8abe1fe4bc3a" >
-<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/10ddc6be-6e57-4c7b-858b-3bafe4a014a5" >
-</p>
 
+<a href="https://github.com/user-attachments/assets/6cb6383b-6a72-4b0d-9dee-8abe1fe4bc3a">
+<img src="https://github.com/user-attachments/assets/6cb6383b-6a72-4b0d-9dee-8abe1fe4bc3a" width="300">
+</a>
+
+<a href="https://github.com/user-attachments/assets/10ddc6be-6e57-4c7b-858b-3bafe4a014a5">
+<img src="https://github.com/user-attachments/assets/10ddc6be-6e57-4c7b-858b-3bafe4a014a5" width="300">
+</a>
+
+</p>
 
 ---
 
 ## 🎨 Logo Designs
 
 <p align="center">
-  <img width="1280" height="1280" alt="logo1" src="https://github.com/user-attachments/assets/a58ebd74-6e75-4529-8715-874429a69e49" >
-  <img width="1280" height="1280" alt="logo2" src="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1" >
+
+<a href="https://github.com/user-attachments/assets/a58ebd74-6e75-4529-8715-874429a69e49">
+<img src="https://github.com/user-attachments/assets/a58ebd74-6e75-4529-8715-874429a69e49" width="250">
+</a>
+
+<a href="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1">
+<img src="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1" width="250">
+</a>
+
 </p>
 
 ---
 
-## 🖥 Website
+## 🖥 Website Projects
 
-Loding.....
+🚧 **Coming Soon...**
+
+---
+
+⭐ Feel free to explore my repositories and projects.
 
 ---
 
 # 📫 Contact Me
-LinkedIn: https://www.linkedin.com/in/khadija-arrazaghi
-GitHub: https://github.com/KhadijaArrazaghi
+
+LinkedIn:
+https://www.linkedin.com/in/khadija-arrazaghi
+
+GitHub:
+https://github.com/KhadijaArrazaghi
