@@ -1,4 +1,4 @@
-<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" /><img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/c0523d76-2621-4ae7-a43f-48321975c8a7" /># Hi 👋 I'm Khadija
+# Hi 👋 I'm Khadija
 
 <h3 align="center">Software Engineer | Graphic Designer | UI/UX Designer</h3>
 
@@ -64,8 +64,7 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 ## ⭐ Featured Work
 
 <p align="center">
-  <img src="<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/78f22bcc-c560-45a6-a287-e200c5014bf1" />
-   " width="45%">
+<img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/3d113073-8099-41ce-907f-454c91962d65" /><img width="2800" height="3500" alt="2 (4)" src="https://github.com/user-attachments/assets/c0523d76-2621-4ae7-a43f-48321975c8a7" />
   <img src="images/design2.jpg" width="45%">
 </p>
 
