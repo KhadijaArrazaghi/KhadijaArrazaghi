@@ -57,24 +57,24 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 # 📊 GitHub Stats
 
-![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadijaArrazaghi\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhadijaArrazaghi\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=KhadijaArrazaghi\&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=KhadijaArrazaghi\&theme=tokyonight\&column=7)
 
 ---
 
 # 📫 Contact Me
 
-GitHub: https://github.com/KhadijaArrazahi
+GitHub: https://github.com/KhadijaArrazaghi
