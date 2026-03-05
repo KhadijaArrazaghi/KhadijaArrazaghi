@@ -82,9 +82,12 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 ## 🎨 Logo Designs
 
 <p align="center">
-  <img src="images/logo1.jpg" width="30%">
-  <img src="images/logo2.jpg" width="30%">
+  <img width="1280" height="1280" alt="logo1" src="https://github.com/user-attachments/assets/a58ebd74-6e75-4529-8715-874429a69e49" >
+  <img width="1280" height="1280" alt="logo2" src="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1" >
 </p>
+
+
+
 
 ---
 
