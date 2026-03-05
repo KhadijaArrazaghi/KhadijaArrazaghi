@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Graphic Designer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;UI%2FUX+Designer;Graphic+Designer;Logo+and+Brand+Identity+Designer;Web+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;UI%2FUX+Designer;Graphic+Designer;Logo+and+Brand+Identity+Designer;Web+Developer; Social Media Post;&center=true&width=500&height=45">
 </p>
 
 ---
@@ -59,10 +59,6 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhadijaArrazaghi\&theme=tokyonight)
 
 ---
-
-# 📊 GitHub Stats
-
-![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadijaArrazaghi&show_icons=true&theme=tokyonight)---
 
 # 🎨 Design Portfolio
 
