@@ -59,6 +59,40 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 ---
 
+# 🎨 Design Portfolio
+
+## ⭐ Featured Work
+
+<p align="center">
+  <img src="images/design1.jpg" width="45%">
+  <img src="images/design2.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/design3.jpg" width="45%">
+  <img src="images/design4.jpg" width="45%">
+</p>
+
+---
+
+## 🖥 UI / UX Designs
+
+<p align="center">
+  <img src="images/ui1.jpg" width="30%">
+  <img src="images/ui2.jpg" width="30%">
+</p>
+
+---
+
+## 🎨 Logo Designs
+
+<p align="center">
+  <img src="images/logo1.jpg" width="30%">
+  <img src="images/logo2.jpg" width="30%">
+</p>
+
+---
+
 # 📫 Contact Me
 
 GitHub: https://github.com/KhadijaArrazaghi
