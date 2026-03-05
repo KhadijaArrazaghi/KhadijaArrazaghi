@@ -62,8 +62,7 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 
 # 📊 GitHub Stats
 
-![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadijaArrazaghi\&show_icons=true\&theme=tokyonight)
-
+![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadijaArrazaghi&show_icons=true&theme=tokyonight)
 ---
 
 # 🎨 Design Portfolio
@@ -105,11 +104,11 @@ I'm **Khadija**, a **Software Engineer and Creative Designer** who combines **te
 <p align="center">
 
 <a href="https://github.com/user-attachments/assets/a58ebd74-6e75-4529-8715-874429a69e49">
-<img src="https://github.com/user-attachments/assets/a58ebd74-6e75-4529-8715-874429a69e49" width="250">
+<img src="https://github.com/user-attachments/assets/a58ebd74-6e75-4529-8715-874429a69e49" width="300">
 </a>
 
 <a href="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1">
-<img src="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1" width="250">
+<img src="https://github.com/user-attachments/assets/b5cde520-672e-4094-bab6-cf11042289b1" width="300">
 </a>
 
 </p>
